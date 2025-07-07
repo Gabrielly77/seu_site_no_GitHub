@@ -20,14 +20,14 @@ Pronto! Seu site está no ar
 ## 📹 Tutoriais em vídeo que explicam tudo isso
 Esses vídeos são ótimos para acompanhar visualmente o processo:
 
-Como colocar seu projeto no ar com o GitHub Pages | Mód02 ... - Explica como configurar o GitHub Pages passo a passo.
+Como colocar seu projeto no ar com o GitHub Pages (https://www.youtube.com/watch?v=EFwpYknxZ5Q) | Mód02 ... - Explica como configurar o GitHub Pages passo a passo.
 
-Como colocar seu projeto no ar DE GRAÇA via GitHub ... - Mostra desde a criação do repositório até o site publicado.
+Como colocar seu projeto no ar DE GRAÇA via GitHub (https://www.youtube.com/watch?v=BU-w2_Aae54) ... - Mostra desde a criação do repositório até o site publicado.
 
-Como colocar seu SITE no AR de GRAÇA com o GitHub Pages - Ideal pra quem quer publicar portfólio ou projeto pessoal.
+Como colocar seu SITE no AR de GRAÇA com o GitHub Pages (https://www.youtube.com/watch?v=q3vsAtijvgA) - Ideal pra quem quer publicar portfólio ou projeto pessoal.
 
-Hospede seu site rápido e de graça com GitHub Pages em 2023 - Tutorial atualizado com dicas práticas.
+Hospede seu site rápido e de graça com GitHub Pages em 2023 (https://www.youtube.com/watch?v=1_eKyE_mHrg) - Tutorial atualizado com dicas práticas.
 
-Como criar um website no GitHub - Ensina a criar o site do zero e publicar.
+Como criar um website no GitHub (https://www.youtube.com/watch?v=a_LZkjhDVc0) - Ensina a criar o site do zero e publicar.
 
-COLOQUE SEU SITE NO AR - GitHub Pages - Bem direto ao ponto, ótimo pra quem já tem o projeto pronto.
+COLOQUE SEU SITE NO AR - GitHub Pages (https://www.youtube.com/watch?v=6Oum-R3z_xE) - Bem direto ao ponto, ótimo pra quem já tem o projeto pronto.
